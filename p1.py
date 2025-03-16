@@ -1,2 +1,3 @@
 print("hello world")
-PRINT("bYE WORLD")
+print("bYE WORLD")
+#test 1
